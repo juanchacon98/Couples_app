@@ -1,0 +1,5 @@
+{
+  "name": "CoupleSync",
+  "description": "A deterministic, synchronized swiping app for couples to decide on activities together.",
+  "requestFramePermissions": []
+}
